@@ -1,6 +1,7 @@
 package br.unicap.edii.avl;
 
 public class AVLNode {
+    
     int key, height;
     AVLNode left, right;
 
