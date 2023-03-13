@@ -13,5 +13,6 @@ public class App {
     
         System.out.println("Travessia em ordem na árvore AVL: ");
         tree.inorder();
+        
     }
 }
