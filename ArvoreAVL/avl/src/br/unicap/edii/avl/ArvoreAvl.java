@@ -1,7 +1,6 @@
 package br.unicap.edii.avl;
 
 public class ArvoreAvl {
-    
     AVLNode root;
 
     int height(AVLNode node) {
