@@ -78,10 +78,12 @@ public class AVL {
 
     public int altura(No no) {
         if (no == null) {
-            return 0;
+            return -1;
         }
-        return no.altura;
-    }
+        int alturaEsquerda = altura(no.esquerda);
+        int alturaDireita = altura(no.direita);
+        return 1 + Math.max(alturaEsquerda, alturaDireita);
+    }  
 
     private No balancear(No no) {
         if (no == null) {
