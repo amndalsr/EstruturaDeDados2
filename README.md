@@ -13,6 +13,7 @@ As árvores rubro-negras são construídas com base em um conjunto de regras sim
 - Todos os nós filhos de um nó vermelho devem ser pretos.
 - Qualquer caminho da raiz a uma folha deve ter o mesmo número de nós pretos.
 - Um nó pode ser vermelho ou preto.
+
 Essas regras garantem que a árvore esteja sempre balanceada, o que significa que o caminho mais longo da raiz para qualquer folha é no máximo duas vezes mais longo do que o caminho mais curto da raiz para outra folha. Como resultado, as operações de inserção, remoção e busca em uma árvore rubro-negra são muito eficientes e têm complexidade de tempo O(log n).
 
 ## 🎋3- Árvore B:
