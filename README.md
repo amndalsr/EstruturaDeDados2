@@ -1,5 +1,5 @@
 # 🔖Estrutura de Dados 2
-Estruturas de dados abordadas no curso de Ciência da Computação - UNICAP (Universidade Católica de Pernambuco)
+Estruturas de dados abordadas no curso de Ciência da Computação - UNICAP (Universidade Católica de Pernambuco).
 
 ## 🌳1- Árvore AVL:
  Uma árvore AVL (Adelson-Velskii e Landis) é uma estrutura de dados em árvore binária balanceada. Essa estrutura é utilizada para armazenar e pesquisar elementos em uma coleção de dados de forma eficiente.
