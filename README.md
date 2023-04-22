@@ -1,7 +1,7 @@
 # 🔖Estrutura de Dados 2
 Estruturas de dados abordadas no curso de Ciência da Computação - UNICAP (Universidade Católica de Pernambuco).
 
-## 🌳1- Árvore AVL:
+## 🌳1- Árvore AVL
  Uma árvore AVL (Adelson-Velskii e Landis) é uma estrutura de dados em árvore binária balanceada. Essa estrutura é utilizada para armazenar e pesquisar elementos em uma coleção de dados de forma eficiente.
 A árvore AVL é balanceada de maneira que a diferença entre as alturas das subárvores esquerda e direita de cada nó não pode exceder um determinado valor (geralmente 1). Isso garante que a altura da árvore seja mantida em logaritmo na base 2 do número de elementos na árvore, o que garante uma eficiência na busca, inserção e remoção de elementos.
 O processo de manutenção do balanceamento da árvore AVL ocorre automaticamente durante as operações de inserção e remoção de elementos, fazendo com que a árvore permaneça balanceada e eficiente em todos os momentos.
