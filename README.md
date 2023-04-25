@@ -1,4 +1,4 @@
-# 🔖Estrutura de Dados 
+# 🔖Estrutura de Dados 2
 Estruturas de dados abordadas no curso de Ciência da Computação - UNICAP (Universidade Católica de Pernambuco).
 
 ## 🌳1- Árvore AVL:
